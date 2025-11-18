@@ -57,7 +57,7 @@ docker run -p 3000:3000 5b3b3a3c1d2e
 
 ### Aplicação em Funcionamento
 
-- [local_host_3000](#local_host_3000)
+![local_host_3000](local_host_3000)
 
 ### Parar o Container
 
